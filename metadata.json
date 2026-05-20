@@ -1,0 +1,6 @@
+{
+  "name": "Rang Palitrasi Generatori",
+  "description": "Zamonaviy interaktiv rang palitrasi, gradientlar generatori, sevimli ranglar va nusxa olish imkoniyatlariga ega bo'lgan ijodiy dizayn platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
